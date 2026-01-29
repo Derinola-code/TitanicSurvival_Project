@@ -1,6 +1,0 @@
-Name: Olaleye Aderinola
-Matric Number: 22CG031921
-Machine Learning Algorithm Used: Logistic Regression
-Model Persistence Method: Pickle
-Live URL: 
-GitHub Repository: 
