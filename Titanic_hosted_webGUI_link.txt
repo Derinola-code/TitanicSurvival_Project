@@ -1,0 +1,6 @@
+Name: Enebe Goodnews
+Matric Number: 22CG031856
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Pickle
+Live URL: https://titanicsurvival-project-1.onrender.com
+GitHub Repository: https://github.com/Goodnews17/TitanicSurvival_Project
